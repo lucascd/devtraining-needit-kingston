@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-19 18:40:10</sys_created_on>
+        <sys_id>2b7c8dc3dbc303005deff91ebf961942</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_2b7c8dc3dbc303005deff91ebf961942</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-19 18:40:10</sys_updated_on>
+        <title><![CDATA[<p><img src="http://bldbz172073.cloud.dst.ibm.com/tools/it/services/webclient/login/images/mx_icon.png" alt="http://bldbz172073.cloud.dst.ibm.com/tools/it/services/webclient/login/images/mx_icon.png" /></p>
+<p> </p>
+<table style="border-color: #fb00ff; background-color: #e1dfed;"><tbody><tr><td><span style="font-size: 14pt; font-family: helvetica;">Welcome to the <span style="color: #0000ff;">ITSC</span> Properties page</span></td></tr></tbody></table>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=2b7c8dc3dbc303005deff91ebf961942"/>
+</record_update>
